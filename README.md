@@ -15,7 +15,7 @@
 
 ## 🚨 Destek İçin
 
-✈ Discord Sunucumuza Katıl: [CodAre](https://discord.gg/codare)
+✈ Discord Sunucumuza Katıl: [Crowley](https://discord.gg/bPUyQhCCHb)
 
 ## 🛑 Gereksinimler
 
@@ -25,11 +25,11 @@ Discord Bot Token **[Guide](https://discordjs.guide/preparations/setting-up-a-bo
 
 ## 💌 Kurulum
 
-Detaylı Video Anlatım **[Hemen İzle](https://www.youtube.com)**
+Detaylı Video Anlatım **[Hemen İzle]()**
 
 ```
-git clone https://github.com/EmirhanSarac/discord-v14-muzik-botu
-cd discord-v14-muzik-botu
+git clone https://github.com/thommyxd0101/discord-v14-music-bot
+cd discord-v14-music-bot
 npm install
 ```
 
